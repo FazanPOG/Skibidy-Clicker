@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1e8ee4f58a3a8264094bb515287a567e, type: 3}
+  m_Name: CameraMan Rare 2
+  m_EditorClassIdentifier: 
+  Name: "\u0421 \u043F\u0438\u0441\u0442\u043E\u043B\u0435\u0442\u0430\u043C\u0438"
+  BuyCountMax: 90
+  Bonus: 40
+  IsScorePerSecondBonus: 1
+  IsScorePerClickBonus: 0
+  Cost: 25000
+  CameraManSprite: {fileID: 21300000, guid: 9ec5c349d3a23a94d976cd02ea9d46c9, type: 3}
+  rarity: 2
